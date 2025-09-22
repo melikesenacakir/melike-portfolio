@@ -16,21 +16,25 @@
     "projects": [
         {
             "name" : "CodinLab",
+            "img" : "/images/projects/codinlab.jpg",
             "description": "Geliştiricilerin yazılım dillerini öğrenip uygulamalar yapabileceği kodlama platformu.",
             "link": "https://github.com/Yavuzlar/CodinLab"
         },
         {
             "name" : "Event Management",
+            "img" : "none",
             "description": "Kullanıcıların etkinlik oluşturup katılabileceği etkinlik yönetim uygulaması.",
             "link": "https://github.com/melikesenacakir/Event_Managment_App"
         },
         {
             "name" : "YummyAI",
+            "img" : "none",
             "description": "YummyAI, sahip olduğunuz malzemelere göre tarifler önerir, böylece lelinizdeki malzemelerle yemekler pişirmenize yardımcı olur.",
             "link": "https://github.com/melikesenacakir/YummyAI"
         },
         {
             "name" : "Fuzzer",
+            "img" : "none",
             "description": "Web uygulamalarında gizli uç noktaları ve dizinleri keşfetmek için basit bir URL fuzzer aracı.",
             "link": "https://github.com/melikesenacakir/Fuzzing_tool"
         }

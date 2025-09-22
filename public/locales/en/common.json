@@ -16,21 +16,25 @@
     "projects": [
         {
             "name" : "CodinLab",
+            "img": "/images/projects/codinlab.jpg",
             "description": "A coding platform where developers can learn and practice programming languages.",
             "link": "https://github.com/Yavuzlar/CodinLab"
         },
         {
             "name" : "Event Management",
+            "img" : "none",
             "description": "An event management application where users can create and join events.",
             "link": "https://github.com/melikesenacakir/Event_Managment_App"
         },
         {
             "name" : "YummyAI",
+            "img" : "none",
             "description": "YummyAI suggests recipes based on the ingredients you have, helping you cook meals with what you have at hand.",
             "link": "https://github.com/melikesenacakir/YummyAI"
         },
         {
             "name" : "Fuzzer",
+            "img" : "none",
             "description": "A simple URL fuzzer tool for discovering hidden endpoints and directories on web applications.",
             "link": "https://github.com/melikesenacakir/Fuzzing_tool"
         }
