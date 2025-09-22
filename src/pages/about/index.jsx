@@ -20,8 +20,8 @@ export const About = () => {
                         <h1 className="text-6xl text-cuteBlue font-bold font-poppins mb-4">{t('about.heading')}</h1>
                     </div>
                     </div>
-                    <div className="max-w-2xl">
-                        <p className="font-poppins text-xl">{t('about.content')}</p>
+                    <div className="max-w-2xl whitespace-pre-line">
+                        <p className="font-poppins text-white text-lg font-thin">{t('about.content')}</p>
                     </div>
                 </div>
                 <Footer />

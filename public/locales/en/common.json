@@ -1,6 +1,6 @@
 {
     "title": "Full-Stack Developer",
-    "description": "Hello! Welcome to my webpage. I am Melike Sena Cakir, a passionate full-stack developer with experience in React, Golang, Angular, and more. I love creating efficient and user-friendly web applications.",
+    "description": "Hello! Welcome to my webpage. I am Melike Sena Cakir, a passionate full-stack developer with experience in React, Golang, Angular, and more. I love creating efficient and user-friendly web applications :)",
     "navbar": {
         "icon": "~melikesenacakir:",
         "articles": "Articles",
@@ -10,9 +10,9 @@
     },
     "mail": "melikesennaa@gmail.com",
     "about": {
-        "heading": "Melike Sena Cakir",
-        "content": "I am Melike Sena Cakir, a passionate full-stack developer with expertise in JavaScript, React, Node.js, and more. I love creating efficient and user-friendly web applications."
-    },
+    "heading": "Melike Sena Cakir",
+    "content": "I am a junior full stack developer who recently graduated in computer engineering. I have a strong interest in research, creative problem solving, and software design.\n\n Currently, I am an active member of the Software Development Unit in the Siber Vatan Yavuzlar Web Security & Development Team, focusing on backend development responsibilities. In this team, I participate on a voluntary basis, learn and grow through a mentor-mentee relationship, and collaborate with the team to develop many projects.\n\n I continuously enhance my knowledge in Go for backend development and Angular for frontend development, building projects using these technologies. Additionally, I am advancing my proficiency in .NET and React by developing various projects. You can access the projects I have developed so far from the projects section and my Github account.\n\n With a solid understanding of security vulnerabilities, I constantly push myself forward to ensure that my projects are developed securely."
+},
     "projects": [
         {
             "name" : "CodinLab",
