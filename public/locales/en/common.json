@@ -67,6 +67,41 @@
             "link": "https://docs.yavuzlar.org/yazilim/guvenli-kodlama-secure-coding"
         }
     ],
+    "skills": [{
+       "react": {
+            "name": "React",
+            "logo": "/images/skills/react.png"
+        },
+        "angular":{
+            "name": "Angular",
+            "logo": "/images/skills/angular.png"
+        },
+        "php": {
+            "name": "PHP",
+            "logo": "/images/skills/php.png"
+        },
+        "go": {
+            "name": "Golang",
+            "logo": "/images/skills/go.png"
+        },
+        "linux": {
+            "name": "Linux",
+            "logo": "/images/skills/linux.png"
+        },
+        "dotnetcore": {
+            "name": ".NET",
+            "logo": "/images/skills/dotnetcore.png"
+        },
+        "c": {
+            "name": "C",
+            "logo": "/images/skills/c.png"
+        },
+        "docker": {
+            "name": "Docker",
+            "logo": "/images/skills/docker.png"
+        }
+    }
+    ],
     "notFound": {
         "message": "404",
         "description": "The page you are looking for might have been moved, deleted, or you may have used an incorrect link.",

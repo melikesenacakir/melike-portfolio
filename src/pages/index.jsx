@@ -1,16 +1,16 @@
 import { useTranslation } from 'react-i18next';
-import { Navbar } from "../components/navbar/navbar";
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import EmailIcon from '@mui/icons-material/Email';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import { Footer } from '../components/footer/footer';
 import { ShowTooltip } from '../utils/tooltip';
+import { Navbar } from "../components/navbar/navbar";
 
 export const Index = () => {
   const { t } = useTranslation();
 
   return (
-    <div className="bg-gradient-to-t from-lightBlue to-darkBlue h-screen flex flex-col select-none">
+    <div className="bg-gradient-to-t from-lightBlue to-darkBlue min-h-screen flex flex-col select-none">
       <Navbar />
       <div className='flex flex-1 flex-col items-center justify-center text-center space-y-6 p-4'>
         <img 

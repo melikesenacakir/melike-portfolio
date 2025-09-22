@@ -3,7 +3,7 @@ import { LanguageSelector } from '../language/language';
 import { NavLink, useLocation } from 'react-router-dom';
 
 
-export const Navbar = (page) => {
+export const Navbar = () => {
       const { t } = useTranslation();
       const location = useLocation();
 
