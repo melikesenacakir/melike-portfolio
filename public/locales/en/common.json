@@ -41,33 +41,39 @@
     ],
     "articles": [
         {
-            "title": "Docker",
-            "summary": "What is Docker, how does it work, and why use it?",
+            "name": "Docker",
+            "img" : "/images/skills/docker.png",
+            "description": "What is Docker, how does it work, and why use it?",
             "link": "https://medium.com/@melikesenacakir/docker-2ff90cdbbc44"
         },
         {
-            "title": "What is Dockerfile & Docker-Compose? How to Write Them?",
-            "summary": "A guide to containerization using Dockerfile and Docker-Compose.",
+            "name": "Dockerfile & Docker-Compose",
+            "img" : "/images/articles/dockerfile.png",
+            "description": "A guide to containerization using Dockerfile and Docker-Compose.",
             "link": "https://medium.com/@melikesenacakir/dockerfile-docker-compose-nedir-nas%C4%B1l-yaz%C4%B1l%C4%B1r-4e2e5318f6b5"
         },
         {
-            "title": "Honeypot",
-            "summary": "What is a Honeypot, how does it work, and why is it important?",
+            "name": "Honeypot",
+            "img" : "/images/articles/honeypot.gif",
+            "description": "What is a Honeypot, how does it work, and why is it important?",
             "link": "https://docs.yavuzlar.org/diger/honeypot-bal-kuepue"
         },
         {
-            "title": "JWT",
-            "summary": "What is JSON Web Token (JWT), how does it work, and why use it?",
+            "name": "JWT",
+            "img" : "/images/articles/jwt.png",
+            "description": "What is JSON Web Token (JWT), how does it work, and why use it?",
             "link": "https://docs.yavuzlar.org/yazilim/json-web-token-jwt"
         },
         {
-            "title": "Concurrency in Go",
-            "summary": "An in-depth look into concurrency programming in Go.",
-            "link": "https://medium.com/@melikesenacakir/go-da-e%C5%9Fzamanl%C4%B1l%C4%B1k-7f7b4f2d3f3e"
+            "name": "Concurrency in Go",
+            "img" : "/images/articles/golang.png",
+            "description": "An introduction to concurrency in the Go programming language.",
+            "link": "https://docs.yavuzlar.org/yazilim/golang-concurrency"
         },
         {
-            "title": "Secure Coding",
-            "summary": "Understanding the concept and practices of secure coding.",
+            "name": "Secure Coding",
+            "img" : "/images/articles/secure_code.png",
+            "description": "Understanding the concept and practices of secure coding.",
             "link": "https://docs.yavuzlar.org/yazilim/guvenli-kodlama-secure-coding"
         }
     ],

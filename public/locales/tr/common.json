@@ -41,33 +41,39 @@
     ],
     "articles": [
         {
-            "title": "Docker",
-            "summary": "Docker nedir, nasıl çalışır ve neden kullanılır?",
+            "name": "Docker",
+            "img" : "/images/skills/docker.png",
+            "description": "Docker nedir, nasıl çalışır ve neden kullanılır?",
             "link": "https://medium.com/@melikesenacakir/docker-2ff90cdbbc44"
         },
         {
-            "title": "Dockerfile & Docker-Compose Nedir? Nasıl Yazılır?",
-            "summary": "Dockerfile ve Docker-Compose kullanarak konteynerleştirme rehberi.",
+            "name": "Dockerfile & Docker-Compose",
+            "img" : "/images/articles/dockerfile.png",
+            "description": "Dockerfile ve Docker-Compose kullanarak konteynerleştirme rehberi.",
             "link": "https://medium.com/@melikesenacakir/dockerfile-docker-compose-nedir-nas%C4%B1l-yaz%C4%B1l%C4%B1r-4e2e5318f6b5"
         },
         {
-            "title": "Honeypot",
-            "summary": "Honeypot nedir, nasıl çalışır ve neden önemlidir?",
+            "name": "Honeypot",
+            "img" : "/images/articles/honeypot.gif",
+            "description": "Honeypot nedir, nasıl çalışır ve neden önemlidir?",
             "link": "https://docs.yavuzlar.org/diger/honeypot-bal-kuepue"
         },
         {
-            "title": "JWT",
-            "summary": "JSON Web Token (JWT) nedir, nasıl çalışır ve neden kullanılır?",
+            "name": "JWT",
+            "img" : "/images/articles/jwt.png",
+            "description": "JSON Web Token (JWT) nedir, nasıl çalışır ve neden kullanılır?",
             "link": "https://docs.yavuzlar.org/yazilim/json-web-token-jwt"
         },
         {
-            "title": "Go'da Eşzamanlılık",
-            "summary": "Go dilinde concurrency (eşzamanlılık) kavramı ve kullanımı.",
+            "name": "Go'da Eşzamanlılık",
+            "img" : "/images/articles/golang.png",
+            "description": "Go dilinde concurrency (eşzamanlılık) kavramı ve kullanımı.",
             "link": "https://docs.yavuzlar.org/yazilim/golang-concurrency"
         },
         {
-            "title": "Güvenli Kodlama",
-            "summary": "Güvenli kodlama prensipleri ve nelere dikkat edilmesi gerektiği.",
+            "name": "Güvenli Kodlama",
+            "img" : "/images/articles/secure_code.png",
+            "description": "Güvenli kodlama prensipleri ve nelere dikkat edilmesi gerektiği.",
             "link": "https://docs.yavuzlar.org/yazilim/guvenli-kodlama-secure-coding"
         }
     ],
