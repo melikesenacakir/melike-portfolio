@@ -1,0 +1,78 @@
+{
+    "title": "Full-Stack Developer",
+    "description": "Hello! Welcome to my webpage. I am Melike Sena Cakir, a passionate full-stack developer with experience in React, Golang, Angular, and more. I love creating efficient and user-friendly web applications.",
+    "navbar": {
+        "icon": "~melikesenacakir:",
+        "articles": "Articles",
+        "about": "About",
+        "projects": "Projects",
+        "skills": "Skills"
+    },
+    "mail": "melikesennaa@gmail.com",
+    "about": {
+        "heading": "Melike Sena Cakir",
+        "content": "I am Melike Sena Cakir, a passionate full-stack developer with expertise in JavaScript, React, Node.js, and more. I love creating efficient and user-friendly web applications."
+    },
+    "projects": [
+        {
+            "name" : "CodinLab",
+            "description": "A coding platform where developers can learn and practice programming languages.",
+            "link": "https://github.com/Yavuzlar/CodinLab"
+        },
+        {
+            "name" : "Event Management",
+            "description": "An event management application where users can create and join events.",
+            "link": "https://github.com/melikesenacakir/Event_Managment_App"
+        },
+        {
+            "name" : "YummyAI",
+            "description": "YummyAI suggests recipes based on the ingredients you have, helping you cook meals with what you have at hand.",
+            "link": "https://github.com/melikesenacakir/YummyAI"
+        },
+        {
+            "name" : "Fuzzer",
+            "description": "A simple URL fuzzer tool for discovering hidden endpoints and directories on web applications.",
+            "link": "https://github.com/melikesenacakir/Fuzzing_tool"
+        }
+    ],
+    "articles": [
+        {
+            "title": "Docker",
+            "summary": "What is Docker, how does it work, and why use it?",
+            "link": "https://medium.com/@melikesenacakir/docker-2ff90cdbbc44"
+        },
+        {
+            "title": "What is Dockerfile & Docker-Compose? How to Write Them?",
+            "summary": "A guide to containerization using Dockerfile and Docker-Compose.",
+            "link": "https://medium.com/@melikesenacakir/dockerfile-docker-compose-nedir-nas%C4%B1l-yaz%C4%B1l%C4%B1r-4e2e5318f6b5"
+        },
+        {
+            "title": "Honeypot",
+            "summary": "What is a Honeypot, how does it work, and why is it important?",
+            "link": "https://docs.yavuzlar.org/diger/honeypot-bal-kuepue"
+        },
+        {
+            "title": "JWT",
+            "summary": "What is JSON Web Token (JWT), how does it work, and why use it?",
+            "link": "https://docs.yavuzlar.org/yazilim/json-web-token-jwt"
+        },
+        {
+            "title": "Concurrency in Go",
+            "summary": "An in-depth look into concurrency programming in Go.",
+            "link": "https://medium.com/@melikesenacakir/go-da-e%C5%9Fzamanl%C4%B1l%C4%B1k-7f7b4f2d3f3e"
+        },
+        {
+            "title": "Secure Coding",
+            "summary": "Understanding the concept and practices of secure coding.",
+            "link": "https://docs.yavuzlar.org/yazilim/guvenli-kodlama-secure-coding"
+        }
+    ],
+    "notFound": {
+        "message": "404",
+        "description": "The page you are looking for might have been moved, deleted, or you may have used an incorrect link.",
+        "homeLink": "Go back to Home"
+    },
+    "footer": {
+        "text": "Melike Sena Cakir. All rights reserved."
+    }
+}

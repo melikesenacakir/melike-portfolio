@@ -1,0 +1,78 @@
+{
+    "title": "Full-Stack Developer",
+    "description": "Merhaba! Web sayfama hoş geldiniz. Ben Melike Sena Çakır, React, Golang, Angular ve daha fazlası konusunda uzmanlığa sahip tutkulu bir full-stack geliştiriciyim. Verimli ve kullanıcı dostu web uygulamaları oluşturmayı seviyorum.",
+    "navbar": {
+        "icon": "~melikesenacakir:",
+        "articles": "Makaleler",
+        "about": "Hakkımda",
+        "projects": "Projeler",
+        "skills": "Yetenekler"
+    },
+    "mail": "melikesennaa@gmail.com",
+    "about": {
+        "heading": "Melike Sena Çakır",
+        "content": "Ben Melike Sena Çakır, JavaScript, React, Node.js ve daha fazlası konusunda uzmanlığa sahip tutkulu bir full-stack geliştiriciyim. Verimli ve kullanıcı dostu web uygulamaları oluşturmayı seviyorum."
+    },
+    "projects": [
+        {
+            "name" : "CodinLab",
+            "description": "Geliştiricilerin yazılım dillerini öğrenip uygulamalar yapabileceği kodlama platformu.",
+            "link": "https://github.com/Yavuzlar/CodinLab"
+        },
+        {
+            "name" : "Event Management",
+            "description": "Kullanıcıların etkinlik oluşturup katılabileceği etkinlik yönetim uygulaması.",
+            "link": "https://github.com/melikesenacakir/Event_Managment_App"
+        },
+        {
+            "name" : "YummyAI",
+            "description": "YummyAI, sahip olduğunuz malzemelere göre tarifler önerir, böylece lelinizdeki malzemelerle yemekler pişirmenize yardımcı olur.",
+            "link": "https://github.com/melikesenacakir/YummyAI"
+        },
+        {
+            "name" : "Fuzzer",
+            "description": "Web uygulamalarında gizli uç noktaları ve dizinleri keşfetmek için basit bir URL fuzzer aracı.",
+            "link": "https://github.com/melikesenacakir/Fuzzing_tool"
+        }
+    ],
+    "articles": [
+        {
+            "title": "Docker",
+            "summary": "Docker nedir, nasıl çalışır ve neden kullanılır?",
+            "link": "https://medium.com/@melikesenacakir/docker-2ff90cdbbc44"
+        },
+        {
+            "title": "Dockerfile & Docker-Compose Nedir? Nasıl Yazılır?",
+            "summary": "Dockerfile ve Docker-Compose kullanarak konteynerleştirme rehberi.",
+            "link": "https://medium.com/@melikesenacakir/dockerfile-docker-compose-nedir-nas%C4%B1l-yaz%C4%B1l%C4%B1r-4e2e5318f6b5"
+        },
+        {
+            "title": "Honeypot",
+            "summary": "Honeypot nedir, nasıl çalışır ve neden önemlidir?",
+            "link": "https://docs.yavuzlar.org/diger/honeypot-bal-kuepue"
+        },
+        {
+            "title": "JWT",
+            "summary": "JSON Web Token (JWT) nedir, nasıl çalışır ve neden kullanılır?",
+            "link": "https://docs.yavuzlar.org/yazilim/json-web-token-jwt"
+        },
+        {
+            "title": "Go'da Eşzamanlılık",
+            "summary": "Go dilinde concurrency (eşzamanlılık) kavramı ve kullanımı.",
+            "link": "https://docs.yavuzlar.org/yazilim/golang-concurrency"
+        },
+        {
+            "title": "Güvenli Kodlama",
+            "summary": "Güvenli kodlama prensipleri ve nelere dikkat edilmesi gerektiği.",
+            "link": "https://docs.yavuzlar.org/yazilim/guvenli-kodlama-secure-coding"
+        }
+    ],
+    "notFound": {
+        "message": "404",
+        "description": "Sayfa taşınmış, silinmiş olabilir veya yanlış bir bağlantı kullanıyor olabilirsiniz.",
+        "homeLink": "Ana Sayfaya Dön"
+    },
+    "footer": {
+        "text": "Melike Sena Çakır. Tüm hakları saklıdır."
+    }
+}
