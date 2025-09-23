@@ -13,6 +13,7 @@
         "heading": "Melike Sena Çakır",
         "content": "Bilgisayar mühendisliğinden yeni mezun olmuş junior full stack developer'ım. Araştırmaya, yaratıcı problem çözmeye ve yazılım tasarımına güçlü bir ilgim var.\n\n Şu anda Siber Vatan Yavuzlar Web Güvenlik & Geliştirme Ekibi'nde Yazılım Geliştirme Birimi'nin aktif bir üyesiyim ve backend geliştirme sorumluluklarına odaklanıyorum. Bu takımda gönüllülük esaslı olarak yer alıyor, mentör-mentee ilişkisiyle öğrenip gelişiyor ve ekiple birlikte birçok proje geliştiriyoruz.\n\n Backend geliştirme için Go, frontend geliştirme için Angular konusundaki bilgilerimi sürekli olarak geliştiriyorum ve bu teknolojileri kullanarak projeler geliştiriyorum. Ayrıca .NET ve React konusundaki yetkinliğimi de çeşitli projeler geliştirerek ileriye taşıyorum. Şimdiye kadar geliştirdiğim projelere projeler bölümünden ve Github hesabımdan erişebilirsiniz.\n\n Güvenlik açıkları konusunda sağlam bir anlayışa sahip olarak, projelerimin güvenli bir şekilde geliştirilmesini sağlamak için kendimi sürekli olarak ileriye taşıyorum."
     },
+    "project.view": "Projeyi Görüntüle",
     "projects": [
         {
             "name" : "CodinLab",
@@ -39,6 +40,7 @@
             "link": "https://github.com/melikesenacakir/Fuzzing_tool"
         }
     ],
+    "article.description" : "Yazılım geliştirme, teknoloji ve kişisel deneyimlerim hakkında yazılarım",
     "articles": [
         {
             "name": "Docker",
@@ -112,6 +114,7 @@
         }
     }
     ],
+    "read": "Devamını Oku →",
     "notFound": {
         "message": "404",
         "description": "Sayfa taşınmış, silinmiş olabilir veya yanlış bir bağlantı kullanıyor olabilirsiniz.",
