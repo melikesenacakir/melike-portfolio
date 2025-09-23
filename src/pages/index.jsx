@@ -18,7 +18,7 @@ export const Index = () => {
           alt="Profile" 
           className="w-[30vw] h-[30vw] max-w-56 max-h-56 rounded-[20px] border-white shadow-2xl"
         />
-        <h1 className="text-cuteBlue text-2xl sm:text-4xl md:text-6xl lg:text-8xl font-bold font-poppins animate-pulse transition-all duration-300 transform hover:scale-105 px-2 w-full">{t('title')}</h1>
+        <h1 className="text-cuteBlue text-4xl md:text-6xl lg:text-8xl font-bold font-poppins animate-pulse transition-all duration-300 transform hover:scale-105 px-2 w-full">{t('title')}</h1>
         <p className="text-gray-300 font-poppins mt-4 text-sm sm:text-base md:text-lg lg:text-xl max-w-xs sm:max-w-md md:max-w-2xl lg:max-w-3xl px-4 w-full">{t('description')}</p>
         <div className='flex flex-row mt-4 -space-x-6 sm:-space-x-12 justify-center w-full'>
           <div className='relative group'>

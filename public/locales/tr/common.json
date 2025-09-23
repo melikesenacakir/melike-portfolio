@@ -1,6 +1,6 @@
 {
     "title": "Full-Stack Developer",
-    "description": "Merhaba! Web sayfama hoş geldiniz. Ben Melike Sena Çakır, React, Golang, Angular ve daha fazlası konusunda uzmanlığa sahip tutkulu bir full-stack geliştiriciyim. Verimli ve kullanıcı dostu web uygulamaları oluşturmayı seviyorum :)",
+    "description": "Merhaba! Web sayfama hoş geldiniz. Ben Melike Sena Çakır, özellikle backend geliştirmeye odaklanan, React, Golang, Angular ve daha fazlası konusunda uzmanlığa sahip tutkulu bir full-stack geliştiriciyim. Verimli ve kullanıcı dostu web uygulamaları oluşturmayı seviyorum :)",
     "navbar": {
         "icon": "~melikesenacakir:",
         "articles": "Makaleler",
@@ -80,6 +80,14 @@
         }
     ],
 "skills": [{
+              "go": {
+            "name": "Golang",
+            "logo": "/images/skills/go.png"
+        },
+        "docker": {
+            "name": "Docker",
+            "logo": "/images/skills/docker.png"
+        },
        "react": {
             "name": "React",
             "logo": "/images/skills/react.png"
@@ -88,29 +96,21 @@
             "name": "Angular",
             "logo": "/images/skills/angular.png"
         },
+        "dotnetcore": {
+            "name": ".NET",
+            "logo": "/images/skills/dotnetcore.png"
+        },
         "php": {
             "name": "PHP",
             "logo": "/images/skills/php.png"
-        },
-        "go": {
-            "name": "Golang",
-            "logo": "/images/skills/go.png"
         },
         "linux": {
             "name": "Linux",
             "logo": "/images/skills/linux.png"
         },
-        "dotnetcore": {
-            "name": ".NET",
-            "logo": "/images/skills/dotnetcore.png"
-        },
         "c": {
             "name": "C",
             "logo": "/images/skills/c.png"
-        },
-        "docker": {
-            "name": "Docker",
-            "logo": "/images/skills/docker.png"
         }
     }
     ],

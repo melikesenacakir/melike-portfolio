@@ -1,6 +1,6 @@
 {
     "title": "Full-Stack Developer",
-    "description": "Hello! Welcome to my webpage. I am Melike Sena Cakir, a passionate full-stack developer with experience in React, Golang, Angular, and more. I love creating efficient and user-friendly web applications :)",
+    "description": "Hello! Welcome to my webpage. I am Melike Sena Çakır, a passionate full-stack developer with a strong focus on backend development and experience in React, Go, Angular, and more. I love creating efficient and user-friendly web applications :)",
     "navbar": {
         "icon": "~melikesenacakir:",
         "articles": "Articles",
@@ -74,6 +74,14 @@
         }
     ],
     "skills": [{
+        "go": {
+            "name": "Golang",
+            "logo": "/images/skills/go.png"
+        },
+        "docker": {
+            "name": "Docker",
+            "logo": "/images/skills/docker.png"
+        },
        "react": {
             "name": "React",
             "logo": "/images/skills/react.png"
@@ -82,29 +90,21 @@
             "name": "Angular",
             "logo": "/images/skills/angular.png"
         },
+        "dotnetcore": {
+            "name": ".NET",
+            "logo": "/images/skills/dotnetcore.png"
+        },
         "php": {
             "name": "PHP",
             "logo": "/images/skills/php.png"
-        },
-        "go": {
-            "name": "Golang",
-            "logo": "/images/skills/go.png"
         },
         "linux": {
             "name": "Linux",
             "logo": "/images/skills/linux.png"
         },
-        "dotnetcore": {
-            "name": ".NET",
-            "logo": "/images/skills/dotnetcore.png"
-        },
         "c": {
             "name": "C",
             "logo": "/images/skills/c.png"
-        },
-        "docker": {
-            "name": "Docker",
-            "logo": "/images/skills/docker.png"
         }
     }
     ],

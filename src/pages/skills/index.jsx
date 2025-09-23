@@ -14,14 +14,14 @@ export const Skills = () => {
         <div className="relative z-10 flex flex-col min-h-screen w-full">
             <Navbar />
             <div className="flex flex-1 items-center grid grid-cols-2 sm:grid-cols-6 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-4 gap-6 mx-auto p-4 w-full">
+                <SkillsCard skill="go" />
+                <SkillsCard skill="docker" />
                 <SkillsCard skill="angular" />
+                <SkillsCard skill="dotnetcore" />
                 <SkillsCard skill="react" />
                 <SkillsCard skill="php" />
-                <SkillsCard skill="go" />
                 <SkillsCard skill="linux" />
-                <SkillsCard skill="dotnetcore" />
                 <SkillsCard skill="c" />
-                <SkillsCard skill="docker" />
             </div>
         <Footer />
         </div>
