@@ -10,17 +10,17 @@ export const Index = () => {
   const { t } = useTranslation();
 
   return (
-    <div className="bg-gradient-to-t from-lightBlue to-darkBlue min-h-screen flex flex-col select-none">
+    <div className="bg-gradient-to-t from-lightBlue to-darkBlue min-h-screen w-full flex flex-col select-none overflow-x-hidden">
       <Navbar />
-      <div className='flex flex-1 flex-col items-center justify-center text-center p-4'>
+      <div className='flex flex-1 flex-col items-center justify-center text-center space-y-4 sm:space-y-6 p-4 w-full max-w-full'>
         <img 
           src="/images/me.gif" 
           alt="Profile" 
-          className="w-56 h-56 rounded-[20px] border-white shadow-2xl "
+          className="w-[30vw] h-[30vw] max-w-56 max-h-56 rounded-[20px] border-white shadow-2xl"
         />
-        <h1 className="text-cuteBlue text-4xl font-bold font-poppins md:text-8xl sm:text-4xl animate-pulse transition-all duration-300 transform hover:scale-105">{t('title')}</h1>
-        <p className="text-gray-300 font-poppins mt-4 text-xl md:max-w-3xl sm:max-w-xl ">{t('description')}</p>
-        <div className='flex flex-row mt-4 '>
+        <h1 className="text-cuteBlue text-2xl sm:text-4xl md:text-6xl lg:text-8xl font-bold font-poppins animate-pulse transition-all duration-300 transform hover:scale-105 px-2 w-full">{t('title')}</h1>
+        <p className="text-gray-300 font-poppins mt-4 text-sm sm:text-base md:text-lg lg:text-xl max-w-xs sm:max-w-md md:max-w-2xl lg:max-w-3xl px-4 w-full">{t('description')}</p>
+        <div className='flex flex-row mt-4 -space-x-6 sm:-space-x-12 justify-center w-full'>
           <div className='relative group'>
             <LinkedInIcon className='text-white hover:text-pink-500 cursor-pointer' style={{ fontSize: 40 }} onClick={() => window.open('https://www.linkedin.com/in/melikesenaçakır/', '_blank')} />
             {ShowTooltip('linkedin.com/in/melikesenaçakır')}
